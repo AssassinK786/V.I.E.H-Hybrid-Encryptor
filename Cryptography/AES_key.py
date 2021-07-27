@@ -7,7 +7,6 @@ from getpass import getuser
 from Crypto.Random import get_random_bytes
 import hashlib
 
-# key path for storing the AES key
 key_path = f"C:/Users/{getuser()}/Hybrid Encryption/DoNotDelete/AES key.txt"
 
 
