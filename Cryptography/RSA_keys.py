@@ -5,10 +5,9 @@ from getpass import getuser
 import ctypes
 import os
 
-user = getuser()  # get the username
-directory_path = "C:/Users/{}/Hybrid Encryption".format(user)  # path for default directory
-keys_path = "{}/DoNotDelete".format(directory_path)  # path for keys folder where, keys will be stored
-
+user = getuser()  
+directory_path = "C:/Users/{}/Hybrid Encryption".format(user)  
+keys_path = "{}/DoNotDelete".format(directory_path)  
 
 def is_keys_exist():
 
