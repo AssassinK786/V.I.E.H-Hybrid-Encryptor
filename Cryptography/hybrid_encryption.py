@@ -6,7 +6,7 @@ import pathlib
 import os
 from getpass import getuser
 
-block_size: int = 128  # size of a key
+block_size: int = 128  
 
 default_path = f"C:/Users/{getuser()}/Hybrid Encryption"
 
