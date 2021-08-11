@@ -1,4 +1,4 @@
-<h1 align="center">V.I.E.H-Hybrid-Encryptor</h1>
+<h1 align="center">V.I.E.H Hybrid Encryptor</h1>
 
 <h3 align="center"> It is Data Encryption Program Which Uses RSA and AES algorithm for Encryption & Decryption</h3>
 
