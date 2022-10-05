@@ -2,8 +2,8 @@
 
 <h3 align="center"> It is Data Encryption Program Which Uses RSA and AES algorithm for Encryption & Decryption</h3>
 
-**Features**
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+### Features
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 <h4>1. Use of RSA And AES Encryption increase the Data Security </h4>
 
 
